@@ -54,5 +54,7 @@ Actively maintained on a 4–6 week rotation. See [CHANGELOG](./CHANGELOG.md) an
 ## Contributing
 Issues and PRs welcome. Keep changes small and focused; follow Conventional Commits.
 
+See the [Release Playbook](./RELEASES.md) for the standard steps.
+
 ## Security
 This repo contains no network calls and reads public WordPress APIs only.
