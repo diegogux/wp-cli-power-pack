@@ -1,11 +1,13 @@
+![Banner: WP-CLI Power Pack — pragmatic WordPress CLI tools. PHP 8+, focused commands, JSON output.](docs/banner.svg)
+
 # WP-CLI Power Pack
 
-![CI](https://github.com/jamesbregenzer/wp-cli-power-pack/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/jamesbregenzer/wp-cli-power-pack/actions/workflows/ci.yml/badge.svg?branch=main)
 ![Release](https://img.shields.io/github/v/release/jamesbregenzer/wp-cli-power-pack?display_name=tag)
 ![Last commit](https://img.shields.io/github/last-commit/jamesbregenzer/wp-cli-power-pack)
-![PHP ≥ 8.0](https://img.shields.io/badge/PHP-%E2%89%A58.0-777bb4?logo=php)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Maintained by James Bregenzer](https://img.shields.io/badge/maintained%20by-James%20Bregenzer-F5C518?labelColor=000000)](https://jamesbregenzer.com)
 
 A small collection of pragmatic WP-CLI commands for everyday WordPress ops.
 
